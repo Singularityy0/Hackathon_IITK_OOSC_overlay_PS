@@ -5,7 +5,3 @@ the program uses the following external libraries :
   pandas
    
 it is advised for user to install the libraries before running the program.
-
-
-we (Team Fake Analysis a Y24  batch ) made the efforts to complete the problem statement but unfortunatelt couldn't 
-here is our submission.
